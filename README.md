@@ -1,6 +1,6 @@
 # Just-Java
 Learn some basic Khmer language with "native pronunciation" and English translation.
-This is 2nd version using tabs for each category of learning. The 1st version using list view, which is less fancy/convenient.
+This is 2nd version using tabs for each category of learning. The 1st version uses list view, which is less fancy/convenient.
 
 ## Motivation
 Building Android app.
